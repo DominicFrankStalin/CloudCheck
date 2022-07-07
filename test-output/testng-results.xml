@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45165" started-at="2022-07-07T13:32:40 IST" finished-at="2022-07-07T13:33:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45165" started-at="2022-07-07T13:32:40 IST" finished-at="2022-07-07T13:33:25 IST">
+      <class name="basics.DaughterClass">
+        <test-method status="PASS" signature="start()[pri:0, instance:basics.DaughterClass@491cc5c9]" name="start" is-config="true" duration-ms="11780" started-at="2022-07-07T13:32:40 IST" finished-at="2022-07-07T13:32:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="startMercuryNewDemo()[pri:0, instance:basics.DaughterClass@491cc5c9]" name="startMercuryNewDemo" duration-ms="26033" started-at="2022-07-07T13:32:52 IST" finished-at="2022-07-07T13:33:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startMercuryNewDemo -->
+        <test-method status="PASS" signature="end()[pri:0, instance:basics.DaughterClass@491cc5c9]" name="end" is-config="true" duration-ms="199" started-at="2022-07-07T13:33:18 IST" finished-at="2022-07-07T13:33:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- basics.DaughterClass -->
+      <class name="basics.SonClass">
+        <test-method status="PASS" signature="start()[pri:0, instance:basics.SonClass@365185bd]" name="start" is-config="true" duration-ms="2709" started-at="2022-07-07T13:33:18 IST" finished-at="2022-07-07T13:33:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="startOrangeHRM()[pri:0, instance:basics.SonClass@365185bd]" name="startOrangeHRM" duration-ms="4189" started-at="2022-07-07T13:33:21 IST" finished-at="2022-07-07T13:33:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startOrangeHRM -->
+        <test-method status="PASS" signature="end()[pri:0, instance:basics.SonClass@365185bd]" name="end" is-config="true" duration-ms="131" started-at="2022-07-07T13:33:25 IST" finished-at="2022-07-07T13:33:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- basics.SonClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
